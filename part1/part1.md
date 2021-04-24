@@ -26,7 +26,3 @@
 17. [2, 4, 6]. The function modifyArray is called. The for loop takes the first element in the array which is 1 and calls doSomething which returns 1 * 2 = 2 and adds it to the newArr. Then the second element in the array which is 2 is called into doSomething which returns 2 * 2 = 4 and adds it to the newArr. Lastly, the third element in the array which is 3 is called into doSomething which returns 2 * 3 = 6 and adds it to the newArr. Then it returns newArr which contains [2, 4, 6].
 18. part1b-question18.js
 19. 1 4 2 2
-
-
-
-
